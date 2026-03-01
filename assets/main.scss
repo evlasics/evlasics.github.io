@@ -1,0 +1,17 @@
+---
+# hi
+---
+$text-color:       #110011;
+$grey-color:       #755070;
+$background-color: #fcfafd;
+$brand-color:      #5e3784;
+
+$grey-color-light: adjust-color($grey-color, $lightness: 45%);
+$grey-color-dark:  adjust-color($grey-color, $lightness: -20%);
+
+
+@import "whiteglass";
+
+.post-content a {
+  text-decoration: underline;
+}

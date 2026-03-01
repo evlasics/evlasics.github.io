@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "New Blog!"
+date:   2026-03-01 16:52:56 +0900
+categories: update
+---
+I think that since I'm writing this blog largely for an audience of people who mostly grew up past the peak of blogging, I can get away with a post called "new blog". It's kinda a cliche that people start a blog, make a "new blog" post and then never update the blog again---well aside from their "sorry for never posting" post. Alas, I don't plan to never update this blog, so hopefully this post will age well.
