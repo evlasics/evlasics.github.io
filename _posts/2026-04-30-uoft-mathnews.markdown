@@ -2,7 +2,7 @@
 layout: post
 title:  "I wish there was a UofT mathNEWS"
 date:   2026-04-30 12:30:56 +0900
-categories: math, uoft
+categories: math uoft
 ---
 If you aren't aware, the university of waterloo has a wonderful monthly publication called &ldquo;mathNEWS&rdquo;. My university&mdash;the wonderful University of Toronto&mdash;does not, despite having (objectively) a way cooler and more awesome math program. This is depressing to me, because I love the idea of getting to publish an article every month just about random stuff. I suppose I have this blog, but I don't think anyone's really reading it to be honest. Also I'd want to read what everyone else says, and just have the experience of like reading through it all.
 
