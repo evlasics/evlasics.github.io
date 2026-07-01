@@ -65,6 +65,7 @@ permalink: /:year/:month/:day/:title/
 # Markdown settings
 markdown: kramdown
 excerpt_separator: "<!-- more -->"
+mathjax: true
 kramdown:
   auto_ids: false
   enable_coderay: false
